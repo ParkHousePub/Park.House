@@ -107,7 +107,6 @@ Check out our current discounts, and see which beers are coming next!
 
 <div class="section-header">
 <img width="235" height="150" alt="biere-fotor-bg-remover-20251224223054" src="https://github.com/user-attachments/assets/0de646f9-3a95-4015-935b-4bff090caefa" />  
- </svg>
   <h1>DRAUGHT</h1>
   </div>
 
