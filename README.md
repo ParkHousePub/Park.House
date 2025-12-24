@@ -1,6 +1,6 @@
 Check out our current discounts, and see which beers are coming next! 
 
-<img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
+   <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
 
 <html lang="en"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <title> Park House – Drinks Menu</title> 
@@ -251,7 +251,7 @@ Check out our current discounts, and see which beers are coming next!
  
 <!-- What Is Next? -->
    <div class="section-header">
-  <img width="125" height="150" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+  <img width="150" height="175" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
         <h2>What Is Coming Next?</h2>
  </div>
  <div class="price-header">
