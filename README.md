@@ -1,7 +1,6 @@
 # Park-House
 theme: Park House Pub
 Discover the Park House menu, check out our current discounts, and see which beers are coming next!
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
