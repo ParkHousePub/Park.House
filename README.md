@@ -74,16 +74,18 @@ Discover the Park House menu, check out our current discounts, and see which bee
 </head>
 <body>
   <div class="menu">
-    <h1>The Rusty Barrel</h1>
+    <h1>Park House</h1>
     <div class="subtitle">Est. 1892</div>
 
-    <h2>Beers & Ales</h2>
+    <h2>Beers</h2>
     <ul>
       <li><span class="item">House Bitter</span><span class="price">£4.50</span></li>
       <li><span class="item">Golden Ale</span><span class="price">£4.80</span></li>
       <li><span class="item">Stout</span><span class="price">£5.00</span></li>
       <li><span class="item">Lager</span><span class="price">£4.60</span></li>
     </ul>
+
+    <h2>Beers & Ales</h2>
 
     <h2>Wines</h2>
     <ul>
