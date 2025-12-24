@@ -120,25 +120,8 @@ Check out our current discounts, and see which beers are coming next!
 </head>
 <body>
 
-<svg class="barrel" viewBox="0 0 64 64" fill="none" stroke="#3b2b1f" stroke-width="2">
-  <!-- Corps du baril -->
-  <path d="M16 8
-           C10 16,10 48,16 56
-           H48
-           C54 48,54 16,48 8
-           Z"/>
+<img width="70" height="50" alt="biere-fotor-bg-remover-20251224223054" src="https://github.com/user-attachments/assets/0de646f9-3a95-4015-935b-4bff090caefa" />
 
-  <!-- Cercles haut et bas -->
-  <ellipse cx="32" cy="8" rx="16" ry="4"/>
-  <ellipse cx="32" cy="56" rx="16" ry="4"/>
-
-  <!-- Cerclages métalliques -->
-  <line x1="14" y1="22" x2="50" y2="22"/>
-  <line x1="14" y1="42" x2="50" y2="42"/>
-</svg>
-
-</body>
-</html>
 </div>
 
     <h1>DRAUGHT</h1>
