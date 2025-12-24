@@ -1,6 +1,6 @@
 Check out our current discounts, and see which beers are coming next! 
 
-             <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
+<img width="850" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
 
 <html lang="en"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <title> Park House – Drinks Menu</title> 
@@ -247,7 +247,7 @@ Check out our current discounts, and see which beers are coming next!
 
 </div>
 
-  <div class="divider"></div>
+   <div class="divider"></div>
  
 <!-- What Is Next? -->
    <div class="section-header">
