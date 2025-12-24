@@ -107,10 +107,39 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- DRAUGHT -->
   <div class="section-header">
-    <svg class="icon" viewBox="0 0 64 64" fill="none" stroke="#3b2b1f" stroke-width="2">
-      <path d="M14 20h28v28a6 6 0 0 1-6 6H20a6 6 0 0 1-6-6V20z"/>
-      <path d="M42 24h6a6 6 0 0 1 0 12h-6"/>
-      <path d="M14 20c0-6 6-10 18-10s18 4 18 10"/>
+    <!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Baril de bière</title>
+  <style>
+    .barrel {
+      width: 120px;
+      margin: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<svg class="barrel" viewBox="0 0 64 64" fill="none" stroke="#3b2b1f" stroke-width="2">
+  <!-- Corps du baril -->
+  <path d="M16 8
+           C10 16,10 48,16 56
+           H48
+           C54 48,54 16,48 8
+           Z"/>
+
+  <!-- Cercles haut et bas -->
+  <ellipse cx="32" cy="8" rx="16" ry="4"/>
+  <ellipse cx="32" cy="56" rx="16" ry="4"/>
+
+  <!-- Cerclages métalliques -->
+  <line x1="14" y1="22" x2="50" y2="22"/>
+  <line x1="14" y1="42" x2="50" y2="42"/>
+</svg>
+
+</body>
+</html>
     </svg>
     <h1>DRAUGHT</h1>
   </div>
