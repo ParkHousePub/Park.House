@@ -61,7 +61,7 @@ Check out our current discounts, and see which beers are coming next!
     .price-header,
     .item {
       display: grid;
-      grid-template-columns: 1fr 80px 80px 80px;
+      grid-template-columns: 1fr 70px 70px 70px;
     }
 
     .price-header {
