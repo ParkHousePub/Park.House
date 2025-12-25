@@ -278,150 +278,55 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">3.79</div>
   </div>
 
-     <div class="divider"></div>
- 
 <!-- White Wines? -->
    <div class="section-header">
-  <img width="150" height="175" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+<img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
         <h2>White Wine</h2>
  </div>
  <div class="price-header">
     <span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>bottle</span>
   </div>
 
-   <h1>WHITE WINE</h1>
-  <table>
-    <tr>
-      <th></th>
-      <th>125ml</th>
-      <th>175ml</th>
-      <th>250ml</th>
-      <th>Bottle</th>
-    </tr>
+  <div class="item">
+    <div>
+      <div class="name">Regatta (House)</div>
+      <div class="desc">Similar to Pinot Grigio - Fruity</div>
+    </div>
+    <div class="prices">4.40</div>
+    <div class="prices">6.10</div>
+    <div class="prices">7.80</div>
+    <div class="prices">22.80</div>
+  </div>
+    <div class="item">
+    <div>
+      
+      <div class="name">Bacchus</div>
+      <div class="desc">Similar to Sauvignon Blanc - Dry</div>
+    </div>
+    <div class="prices">5.10</div>
+    <div class="prices">7.10</div>
+    <div class="prices">9.20</div>
+    <div class="prices">26.99</div>
+  </div>
 
-    <tr>
-      <td>
-        <strong>Regatta (House)</strong><br>
-        <span>Similar to Pinot Grigio - Fruity</span>
-      </td>
-      <td>4.40</td>
-      <td>6.10</td>
-      <td>7.80</td>
-      <td>22.80</td>
-    </tr>
+ <div class="name">Fiano (Italian)</div>
+      <div class="desc">Similar to Chardonnay - Sweet</div>
+    </div>
+    <div class="prices">4.90</div>
+    <div class="prices">6.90</div>
+    <div class="prices">8.90</div>
+    <div class="prices">25.99</div>
+  </div>
 
-    <tr>
-      <td>
-        <strong>Bacchus</strong><br>
-        <span>Similar to Sauvignon Blanc - Dry</span>
-      </td>
-      <td>5.10</td>
-      <td>7.10</td>
-      <td>9.20</td>
-      <td>26.99</td>
-    </tr>
+  <div class="name">King's Fume</div>
+      <div class="desc">Similar to White wines from Burgundy - Dry</div>
+    </div>
+    <div class="prices">6.80</div>
+    <div class="prices">9.80</div>
+    <div class="prices">12.70</div>
+    <div class="prices">37.49</div>
+  </div>
 
-    <tr>
-      <td>
-        <strong>Fiano (Italian)</strong><br>
-        <span>Similar to Chardonnay - Sweet</span>
-      </td>
-      <td>4.90</td>
-      <td>6.90</td>
-      <td>8.90</td>
-      <td>25.99</td>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>King’s Fume</strong><br>
-        <span>Similar to White Wines from Burgundy - Dry</span>
-      </td>
-      <td>6.80</td>
-      <td>9.80</td>
-      <td>12.70</td>
-      <td>37.49</td>
-    </tr>
-  </table>
-
-  <h1>RED WINE</h1>
-  <table>
-    <tr>
-      <th></th>
-      <th>125ml</th>
-      <th>175ml</th>
-      <th>250ml</th>
-      <th>Bottle</th>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>The Reserve (House)</strong><br>
-        <span>Similar to Pinot Noir, Gamay</span>
-      </td>
-      <td>5.20</td>
-      <td>7.30</td>
-      <td>9.40</td>
-      <td>27.60</td>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>Cricket Grove</strong><br>
-        <span>Similar to Malbec, Syrah</span>
-      </td>
-      <td>5.60</td>
-      <td>7.90</td>
-      <td>10.20</td>
-      <td>26.99</td>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>Negroamaro (Italian)</strong><br>
-        <span>Similar to Malbec, Shiraz</span>
-      </td>
-      <td>5.60</td>
-      <td>7.90</td>
-      <td>10.20</td>
-      <td>29.99</td>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>Pinot Noir</strong><br>
-        <span>Similar to Pinot Noir from Germany</span>
-      </td>
-      <td>6.80</td>
-      <td>9.80</td>
-      <td>12.70</td>
-      <td>37.49</td>
-    </tr>
-  </table>
-
-  <h1>ROSE WINE</h1>
-  <table>
-    <tr>
-      <th></th>
-      <th>125ml</th>
-      <th>175ml</th>
-      <th>250ml</th>
-      <th>Bottle</th>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>Pinot Noir Rosé</strong><br>
-        <span>Dry and Delicate Rosé</span>
-      </td>
-      <td>5.20</td>
-      <td>7.30</td>
-      <td>9.40</td>
-      <td>27.60</td>
-    </tr>
-  </table>
-
-</div>
-
-</body>
-</html>
+   <div class="divider"></div>
+     <div class="divider"></div>
+ 
