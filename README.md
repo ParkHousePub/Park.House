@@ -261,9 +261,72 @@ Check out our current discounts, and see which beers are coming next!
   <div class="item">
     <div>
       <div class="name">Calypso 3.8%</div>
-      <div class="desc">Keg – Siren</div>
+      <div class="desc">KEG – Siren</div>
     </div>
     <div class="prices">1.90</div>
     <div class="prices">2.55</div>
     <div class="prices">3.79</div>
   </div>
+
+   <div class="item">
+    <div>
+      <div class="name">Calypso 3.8%</div>
+      <div class="desc">CASK – Siren</div>
+    </div>
+    <div class="prices">1.90</div>
+    <div class="prices">2.55</div>
+    <div class="prices">3.79</div>
+  </div>
+
+     <div class="divider"></div>
+ 
+<!-- White Wines? -->
+   <div class="section-header">
+  <img width="150" height="175" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+        <h2>White Wine</h2>
+ </div>
+ <div class="price-header">
+    <span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>bottle</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Regatta (House)</div>
+      <div class="desc">Similar to Pinot Grigio - Fruity</div>
+    </div>
+    <div class="prices">4.40</div>
+    <div class="prices">6.10</div>
+    <div class="prices">7.80</div>
+    <div class="prices">22.80</div>
+  </div>
+    <div class="item">
+    <div>
+      
+      <div class="name">Bacchus</div>
+      <div class="desc">Similar to Sauvignon Blanc - Dry</div>
+    </div>
+    <div class="prices">5.10</div>
+    <div class="prices">7.10</div>
+    <div class="prices">9.20</div>
+    <div class="prices">26.99</div>
+  </div>
+
+ <div class="name">Fiano (Italian)</div>
+      <div class="desc">Similar to Chardonnay - Sweet</div>
+    </div>
+    <div class="prices">4.90</div>
+    <div class="prices">6.90</div>
+    <div class="prices">8.90</div>
+    <div class="prices">25.99</div>
+  </div>
+
+  <div class="name">King's Fume</div>
+      <div class="desc">Similar to White wines from Burgundy - Dry</div>
+    </div>
+    <div class="prices">6.80</div>
+    <div class="prices">9.80</div>
+    <div class="prices">12.70</div>
+    <div class="prices">37.49</div>
+  </div>
+
+   <div class="divider"></div>
