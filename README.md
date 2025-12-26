@@ -278,6 +278,8 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">3.79</div>
   </div>
 
+ <div class="divider"></div>
+ 
   <!-- NON ALCOHOLIC BEER -->
    <div class="section-header">
   <img width="135" height="150" alt="istockphoto-2180233909-612x612-fotor-bg-remover-2025122684955" src="https://github.com/user-attachments/assets/965fd2c5-a6d6-47fe-9bf5-d88fe3bf288b" />
@@ -330,7 +332,9 @@ Check out our current discounts, and see which beers are coming next!
     </div>
     <div class="prices">3.70</div>
   </div> 
-
+  
+ <div class="divider"></div>
+ 
 <!-- White Wines? -->
    <div class="section-header">
 <img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
