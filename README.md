@@ -277,9 +277,60 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">2.55</div>
     <div class="prices">3.79</div>
   </div>
+
+  <!-- NON ALCOHOLIC BEER -->
+   <div class="section-header">
+  <img width="135" height="150" alt="istockphoto-2180233909-612x612-fotor-bg-remover-2025122684955" src="https://github.com/user-attachments/assets/965fd2c5-a6d6-47fe-9bf5-d88fe3bf288b" />
+        <h2>NON ALCOHOLIC BEER</h2>
+ </div>
+ <div class="price-header">
+    <span></span><span>bottle</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Days 0.0%</div>
+      <div class="desc">Lager</div>
+    </div>
+    <div class="prices">3.70</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Days 0.0%</div>
+      <div class="desc">Pale Ale</div>
+    </div>
+    <div class="prices">3.70</div>
+  </div>
   
   <div class="divider"></div>
-     
+
+  <!-- LOW ALCOHOLIC BEER -->
+   <div class="section-header">
+<img width="135" height="150" alt="image" src="https://github.com/user-attachments/assets/b7757fde-1665-4a53-835a-0a6b85d10970" />
+
+        <h2>LOW ALCOHOLIC BEER</h2>
+ </div>
+ <div class="price-header">
+    <span></span><span>bottle</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Big Drop   0.5% </div>
+      <div class="desc">Paradiso Citra IPA</div>
+    </div>
+    <div class="prices">3.70</div>
+  </div>
+  
+   <div class="item">
+    <div>
+      <div class="name">Big Drop   0.5% </div>
+      <div class="desc">Pine Trail Pale Ale</div>
+    </div>
+    <div class="prices">3.70</div>
+  </div> 
+
 <!-- White Wines? -->
    <div class="section-header">
 <img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
@@ -298,12 +349,44 @@ Check out our current discounts, and see which beers are coming next!
 
   <div class="item">
     <div>
-      <div class="name">Calypso 3.8%</div>
-      <div class="desc">KEG – Siren</div>
-      <div class="prices">Bottle 3.79</div>
+      <div class="name">Regatta (House)</div>
+      <div class="desc">Similar to Pinot Grigio - Fruity</div>
+      <div class="prices">Bottle 22.80</div>
     </div>
-    <div class="prices">1.90</div>
-    <div class="prices">2.55</div>
-    <div class="prices">3.79</div>
+    <div class="prices">4.40</div>
+    <div class="prices">6.10</div>
+    <div class="prices">7.80</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Bacchus</div>
+      <div class="desc">Similar to Sauvignon Blanc - Dry</div>
+      <div class="prices">Bottle 26.99</div>
+    </div>
+    <div class="prices">5.10</div>
+    <div class="prices">7.10</div>
+    <div class="prices">9.20</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Fiano (italian)</div>
+      <div class="desc">Similar to Chardonnay - Sweet</div>
+      <div class="prices">Bottle 25.99</div>
+    </div>
+    <div class="prices">4.90</div>
+    <div class="prices">6.90</div>
+    <div class="prices">8.90</div>
   </div>
   
+  <div class="item">
+    <div>
+      <div class="name">King's Fume</div>
+      <div class="desc">Similar to White Wines from Burgundy - Dry</div>
+      <div class="prices">Bottle 37.49</div>
+    </div>
+    <div class="prices">6.80</div>
+    <div class="prices">9.80</div>
+    <div class="prices">12.70</div>
+  </div>
