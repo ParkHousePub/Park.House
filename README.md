@@ -335,10 +335,10 @@ Check out our current discounts, and see which beers are coming next!
   
  <div class="divider"></div>
  
-<!-- White Wines? -->
+<!-- White Wine? -->
    <div class="section-header">
 <img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
-        <h2>White Wine</h2>
+        <h2>WHITE WINE</h2>
  </div>
  <div class="price-header">
 <style>
@@ -393,4 +393,124 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">6.80</div>
     <div class="prices">9.80</div>
     <div class="prices">12.70</div>
+  </div>
+
+   <div class="divider"></div>
+ 
+<!-- Red Wines? -->
+   <div class="section-header">
+<img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
+        <h2>RED WINE</h2>
+ </div>
+ <div class="price-header">
+<style>
+  .inline-span { display: inline-block; }
+</style>
+   
+<span class="inline-span"></span>
+<span class="inline-span">125ml</span>
+<span class="inline-span">175ml</span>
+<span class="inline-span">250ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">The Reserve (House)</div>
+      <div class="desc">Similar to Pinot Noir, Gamay</div>
+      <div class="prices">Bottle 27.60</div>
+    </div>
+    <div class="prices">5.20</div>
+    <div class="prices">7.30</div>
+    <div class="prices">9.40</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Cricket Grove</div>
+      <div class="desc">Similar to Malbec, Syrah</div>
+      <div class="prices">Bottle 26.99</div>
+    </div>
+    <div class="prices">5.60</div>
+    <div class="prices">7.70</div>
+    <div class="prices">10.20</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Negroamaro (italian)</div>
+      <div class="desc">Similar to Malbec, Shiraz</div>
+      <div class="prices">Bottle 29.99</div>
+    </div>
+    <div class="prices">5.60</div>
+    <div class="prices">7.90</div>
+    <div class="prices">10.20</div>
+  </div>
+  
+  <div class="item">
+    <div>
+      <div class="name">Pinot Noir</div>
+      <div class="desc">Similar to Pinot Noir from Germany</div>
+      <div class="prices">Bottle 37.49</div>
+    </div>
+    <div class="prices">6.80</div>
+    <div class="prices">9.80</div>
+    <div class="prices">12.70</div>
+  </div>
+
+ <div class="divider"></div>
+ 
+<!-- ROSE WINE? -->
+   <div class="section-header">
+<img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
+        <h2>ROSE WINE</h2>
+ </div>
+ <div class="price-header">
+<style>
+  .inline-span { display: inline-block; }
+</style>
+   
+<span class="inline-span"></span>
+<span class="inline-span">125ml</span>
+<span class="inline-span">175ml</span>
+<span class="inline-span">250ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Pinot Noir Rose</div>
+      <div class="desc">Dry and Delicate Rose</div>
+      <div class="prices">Bottle 27.60</div>
+    </div>
+    <div class="prices">5.20</div>
+    <div class="prices">7.30</div>
+    <div class="prices">9.40</div>
+  </div>
+
+<div class="divider"></div>
+
+<!-- COCKTAIL? -->
+   <div class="section-header">
+<img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
+        <h2>ROSE WINE</h2>
+ </div>
+ <div class="price-header">
+<style>
+  .inline-span { display: inline-block; }
+</style>
+   
+<span class="inline-span"></span>
+<span class="inline-span">125ml</span>
+<span class="inline-span">175ml</span>
+<span class="inline-span">250ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Pinot Noir Rose</div>
+      <div class="desc">Dry and Delicate Rose</div>
+      <div class="prices">Bottle 27.60</div>
+    </div>
+    <div class="prices">5.20</div>
+    <div class="prices">7.30</div>
+    <div class="prices">9.40</div>
   </div>
