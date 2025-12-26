@@ -530,3 +530,25 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">6.95</div>
     <div class="prices">9.95</div>
  </div>
+
+ <div class="divider"></div>
+
+  <!-- VODKA -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>VODKA</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">JJ</div>
+      <div class="desc">Artisanal Vodka</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+  
