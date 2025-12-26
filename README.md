@@ -488,10 +488,10 @@ Check out our current discounts, and see which beers are coming next!
 
 <div class="divider"></div>
 
-<!-- COCKTAIL? -->
+<!-- COCKTAILS? -->
    <div class="section-header">
-<img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
-        <h2>ROSE WINE</h2>
+<img width="135" height="150" alt="image" src="https://github.com/user-attachments/assets/c3979a5b-405f-46e3-a5f1-b1313ea95afb" />
+        <h2>COCKTAILS</h2>
  </div>
  <div class="price-header">
 <style>
@@ -499,18 +499,34 @@ Check out our current discounts, and see which beers are coming next!
 </style>
    
 <span class="inline-span"></span>
-<span class="inline-span">125ml</span>
-<span class="inline-span">175ml</span>
-<span class="inline-span">250ml</span>
+<span class="inline-span">1 for</span>
+<span class="inline-span">2 for</span>
+
   </div>
 
   <div class="item">
     <div>
-      <div class="name">Pinot Noir Rose</div>
-      <div class="desc">Dry and Delicate Rose</div>
-      <div class="prices">Bottle 27.60</div>
+      <div class="name">Aperol Spritz</div>
+      <div class="desc">Aperol - Prosecco - Soda Water</div>
     </div>
-    <div class="prices">5.20</div>
-    <div class="prices">7.30</div>
-    <div class="prices">9.40</div>
+    <div class="prices">6.95</div>
+    <div class="prices">9.95</div>
   </div>
+  
+ <div class="item">
+    <div>
+      <div class="name">Limoncello Spritz</div>
+      <div class="desc">Limoncello - Prosecco - Soda Water</div>
+    </div>
+    <div class="prices">6.95</div>
+    <div class="prices">9.95</div>
+  </div>
+  
+ <div class="item">
+    <div>
+      <div class="name">Pimms</div>
+      <div class="desc">Pimms - Lemonade - Fruits</div>
+    </div>
+    <div class="prices">6.95</div>
+    <div class="prices">9.95</div>
+ </div>
