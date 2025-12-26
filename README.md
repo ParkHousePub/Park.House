@@ -300,10 +300,10 @@ Check out our current discounts, and see which beers are coming next!
     <div>
       <div class="name">Calypso 3.8%</div>
       <div class="desc">KEG – Siren</div>
+      <div class="prices">Bottle 3.79</div>
     </div>
     <div class="prices">1.90</div>
     <div class="prices">2.55</div>
     <div class="prices">3.79</div>
-    <div class="prices">Bottle 3.79</div>
   </div>
   
