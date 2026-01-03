@@ -490,8 +490,7 @@ Check out our current discounts, and see which beers are coming next!
 
 <!-- COCKTAILS? -->
    <div class="section-header">
-<img width="150" height="150" alt="360_F_1618339738_cswdGdE65lDBXvpsMgceVL7dBOJQJbBo-fotor-bg-remover-20260103161424" src="https://github.com/user-attachments/assets/0fbf17fe-580e-450f-9115-d35e7bb96b79" />
-
+<img width="185" height="150" alt="360_F_1618339738_cswdGdE65lDBXvpsMgceVL7dBOJQJbBo-fotor-bg-remover-20260103161424" src="https://github.com/user-attachments/assets/0fbf17fe-580e-450f-9115-d35e7bb96b79" />
         <h2>COCKTAILS</h2>
  </div>
  <div class="price-header">
@@ -575,7 +574,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- GIN -->
   <div class="section-header">
-<img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/03196225-a708-4472-b8ba-1b8708e7696a" />
+<img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/c40111c6-dac2-40dd-bee5-867639e2a6fe" />
           <h2>GIN</h2>
   </div>
 
