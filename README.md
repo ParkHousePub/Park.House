@@ -552,3 +552,600 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">4.99</div>
   </div>
   
+ <div class="item">
+    <div>
+      <div class="name">JJ</div>
+      <div class="desc">Raspberry</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+  
+  <div class="item">
+    <div>
+      <div class="name">JJ</div>
+      <div class="desc">Vanilla</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+  
+ <div class="divider"></div>
+
+  <!-- GIN -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>GIN</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Bershire</div>
+      <div class="desc">Dry</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+  
+    <div class="item">
+    <div>
+      <div class="name">Bershire</div>
+      <div class="desc">Morello Cherry</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Bershire</div>
+      <div class="desc">Rhubarb and Raspberry</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Henley</div>
+      <div class="desc">Dry</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Henley</div>
+      <div class="desc">Rhubarb and Orange</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Bombay Sapphire</div>
+      <div class="desc">Dry</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+        <div class="item">
+    <div>
+      <div class="name">Roku</div>
+      <div class="desc">Dry</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+   <div class="divider"></div>
+
+  <!-- WHISKEY -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>WHISKEY</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Glenfiddich 12</div>
+      <div class="desc">Single Malt Scotch Whisky</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Jack Daniel's</div>
+      <div class="desc">Tenessee Sour Mash Whisky</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Maker's Mark</div>
+      <div class="desc">Kentucky Straight Bourbon Whisky</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Jameson</div>
+      <div class="desc">Triple Distilled Irish Whisky</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Lucky Sod</div>
+      <div class="desc">Toffee - Caramel - Smooth Vanilla Liqueur with Irish Whiskey</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">6.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Toki</div>
+      <div class="desc">Suntory Whisky</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+   <div class="divider"></div>
+
+  <!-- RUM-->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>RUM</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Dead Man's Fingers</div>
+      <div class="desc">Spiced</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Dead Man's Fingers</div>
+      <div class="desc">White</div>
+    </div>
+    <div class="prices">3.10</div>
+    <div class="prices">4.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Kraken</div>
+      <div class="desc">Black Spiced</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Planteray</div>
+      <div class="desc">Original Dark</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Temple Island</div>
+      <div class="desc">White</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Temple Island</div>
+      <div class="desc">Spiced</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Temple Island</div>
+      <div class="desc">Coffee</div>
+    </div>
+    <div class="prices">4.99</div>
+    <div class="prices">6.99</div>
+  </div>
+
+   <div class="divider"></div>
+
+  <!-- LIQUEUR-->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>LIQUEUR</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Malibu</div>
+      <div class="desc">White Rum and Coconut Flavour</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Disaronno</div>
+      <div class="desc">Italian</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Bailey's</div>
+      <div class="desc">White Rum and Coconut Flavour</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Henessy</div>
+      <div class="desc">Cognac</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Archers</div>
+      <div class="desc">Schnapps</div>
+    </div>
+    <div class="prices">3.99</div>
+    <div class="prices">5.99</div>
+  </div>
+
+    <!-- SHOTS-->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>SHOT</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>25ml</span><span>50ml</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Espolon</div>
+      <div class="desc">Blanco</div>
+    </div>
+    <div class="prices">3.10</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Espolon</div>
+      <div class="desc">Reposado</div>
+    </div>
+    <div class="prices">3.10</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Sambuca</div>
+    </div>
+    <div class="prices">4.75</div>
+  </div>
+
+    <div class="divider"></div>
+
+  <!-- SOFT DRINKS -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>SOFT DRINKS</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span>½</span><span>Pint</span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Orange</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.55</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Apple</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.55</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Pineapple</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.55</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Cranberry</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.55</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Coke</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.50</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Diet Coke</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.50</div>
+  </div>
+      <div class="item">
+    <div>
+      <div class="name">Lemonade</div>
+    </div>
+    <div class="prices">1.65</div>
+    <div class="prices">2.50</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Soda</div>
+    </div>
+    <div class="prices">0.30</div>
+    <div class="prices">0.30</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">Tonic</div>
+    </div>
+    <div class="prices">0</div>
+    <div class="prices">0</div>
+  </div>
+
+
+      <div class="item">
+    <div>
+      <div class="name">Blackcurrant Cordial</div>
+    </div>
+    <div class="prices">0.49</div>
+    <div class="prices">0.99</div>
+  </div>
+
+      <div class="item">
+    <div>
+      <div class="name">PIP Organic</div>
+      <div class="desc">Pineapple & Mango</div>
+    </div>
+    <div class="prices">2.50</div>
+  </div>
+
+     <div class="item">
+    <div>
+      <div class="name">PIP Organic</div>
+      <div class="desc">Strawberry & Blackcurrant</div>
+    </div>
+    <div class="prices">2.50</div>
+  </div>
+
+        <div class="item">
+    <div>
+      <div class="name">Belvoir</div>
+      <div class="desc">Lemonade</div>
+    </div>
+    <div class="prices">2.95</div>
+  </div>
+  
+          <div class="item">
+    <div>
+      <div class="name">Belvoir</div>
+      <div class="desc">Raspberry Lemonade</div>
+    </div>
+    <div class="prices">2.95</div>
+  </div>
+
+          <div class="item">
+    <div>
+      <div class="name">Belvoir</div>
+      <div class="desc">Ederflower Sparklign Water</div>
+    </div>
+    <div class="prices">2.95</div>
+  </div>
+
+          <div class="item">
+    <div>
+      <div class="name">Belvoir</div>
+      <div class="desc">Ginger Beer</div>
+    </div>
+    <div class="prices">2.95</div>
+  </div>
+
+          <div class="item">
+    <div>
+      <div class="name">Artisan</div>
+      <div class="desc">Light Tonic</div>
+    </div>
+    <div class="prices">2.95</div>
+  </div>
+
+      <div class="divider"></div>
+
+  <!-- COFFEE -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>COFFEE</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span></span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Double Espresso</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Americano</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">White Americano</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Flat White</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+  
+    <div class="item">
+    <div>
+      <div class="name">Latte</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Cappuccino</div>
+      <div class="desc">Decaf available</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
+
+      <div class="divider"></div>
+
+  <!-- TEA -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>TEA</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span></span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">English Breakfast</div>
+    </div>
+    <div class="prices">1.59</div>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Earl Grey</div>
+    </div>
+    <div class="prices">1.59</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Organic Gunpowder Green</div>
+    </div>
+    <div class="prices">1.59</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Peppermint</div>
+    </div>
+    <div class="prices">1.59</div>
+  </div>
+
+    <div class="item">
+    <div>
+      <div class="name">Moringa Passion Fruit</div>
+    </div>
+    <div class="prices">1.59</div>
+  </div>
+  
+      <div class="divider"></div>
+
+  <!-- HOT CHOCOLATE -->
+  <div class="section-header">
+  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+          <h2>HOT CHOCOLATE</h2>
+  </div>
+
+ <div class="price-header">
+    <span></span><span></span>
+  </div>
+
+  <div class="item">
+    <div>
+      <div class="name">Hot Chocolate</div>
+    </div>
+    <div class="prices">1.69</div>
+  </div>
