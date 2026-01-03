@@ -490,7 +490,8 @@ Check out our current discounts, and see which beers are coming next!
 
 <!-- COCKTAILS? -->
    <div class="section-header">
-<img width="135" height="150" alt="image" src="https://github.com/user-attachments/assets/c3979a5b-405f-46e3-a5f1-b1313ea95afb" />
+<img width="135" height="150" alt="360_F_1618339738_cswdGdE65lDBXvpsMgceVL7dBOJQJbBo-fotor-bg-remover-20260103161424" src="https://github.com/user-attachments/assets/0fbf17fe-580e-450f-9115-d35e7bb96b79" />
+
         <h2>COCKTAILS</h2>
  </div>
  <div class="price-header">
@@ -535,7 +536,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- VODKA -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="hand-drawn-bottle-of-vodka-shot-glass-and-lemon-slices-sketch-style-vector-illustration-2HAJH2F-fotor-bg-remover-20260103161733" src="https://github.com/user-attachments/assets/ec8f9e5b-b5e3-405e-acf2-3fe8362dfc2c" />
           <h2>VODKA</h2>
   </div>
 
@@ -574,7 +575,8 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- GIN -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="hand-drawn-bottle-of-vodka-shot-glass-and-lemon-slices-sketch-style-vector-illustration-2HAJH2F-fotor-bg-remover-20260103161733" src="https://github.com/user-attachments/assets/3681d939-df61-411e-8c57-0bc05a33cc14" />
+
           <h2>GIN</h2>
   </div>
 
@@ -649,7 +651,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- WHISKEY -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/5201f2b7-979d-43ae-9197-d9e0a3d8a2ae" />
           <h2>WHISKEY</h2>
   </div>
 
@@ -715,7 +717,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- RUM-->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+<img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/6c04294a-3f4c-4e39-817a-ea3ef07ccd5a" />
           <h2>RUM</h2>
   </div>
 
@@ -790,7 +792,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- LIQUEUR-->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/0851161c-ce3d-4f7e-8cc3-c45aa106803b" />
           <h2>LIQUEUR</h2>
   </div>
 
@@ -843,9 +845,11 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">5.99</div>
   </div>
 
+    <div class="divider"></div>
+
     <!-- SHOTS-->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/5fd5b2d3-10b7-49bf-955b-c08867417672" />
           <h2>SHOT</h2>
   </div>
 
@@ -880,7 +884,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- SOFT DRINKS -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/39e771b9-6d0c-42e0-948a-397eadf4f394" />
           <h2>SOFT DRINKS</h2>
   </div>
 
@@ -1028,7 +1032,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- COFFEE -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+ <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/ed4e4776-2064-4577-b220-5842e6cc8d63" />
           <h2>COFFEE</h2>
   </div>
 
@@ -1088,7 +1092,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- TEA -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+  <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/78102345-eac8-4690-a521-154968d8607f" />
           <h2>TEA</h2>
   </div>
 
@@ -1135,7 +1139,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- HOT CHOCOLATE -->
   <div class="section-header">
-  <img width="175" height="150" alt="baril beer-fotor-bg-remover-20251224224814" src="https://github.com/user-attachments/assets/f573a0f8-5324-4263-bcf2-3b9825cc25c9" />
+  <img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/eb831f74-5592-456c-bd96-b90732ff8f7e" />
           <h2>HOT CHOCOLATE</h2>
   </div>
 
